@@ -1,6 +1,6 @@
 <?php
 
-namespace Wutongwan\PROJECT_NAMESPACE;
+namespace Wutongwan\Vendors\PROJECT_NAMESPACE;
 
 class Example
 {
