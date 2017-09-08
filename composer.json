@@ -1,0 +1,17 @@
+{
+    "name": "PROJECT_NAME",
+    "description": "wutongwan vendor projects, 如有侵权，请提 issue 联系删除",
+    "homepage": "https://github.com/wutongwan/REPO_NAME",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Wutongwan\\Vendors\\PROJECT_NAMESPACE\\": "src/PROJECT_DIRECTORY/"
+        }
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev"
+}
